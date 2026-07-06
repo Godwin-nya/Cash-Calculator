@@ -1,0 +1,35 @@
+body {
+  text-align: center;
+  background-color: rgb(219, 217, 214);
+  font-weight: 200;
+  font-size: larger;
+}
+
+/* to make it look like a neat calculator grid */
+.denomination-row {
+  margin-bottom: 10px;
+}
+input {
+  width: 80px;
+  padding: 5px;
+  text-align: center;
+  border-radius: 5px;
+  border: none;
+  font-size: larger;
+}
+h1 {
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+}
+
+#container {
+  margin: 5% 10%;
+  background-color: rgb(135, 170, 158);
+}
+
+button {
+  background-color: rgb(42, 43, 42);
+  font-size: large;
+  color: red;
+  border: 5px;
+  padding: 5px;
+}
